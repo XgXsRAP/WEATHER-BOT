@@ -1,0 +1,41 @@
+{
+    "nyc":            {"lat": 40.7772,  "lon":  -73.8726, "name": "New York City",  "station": "KLGA", "unit": "F", "region": "us",   "timezone": "America/New_York"},
+    "chicago":        {"lat": 41.9742,  "lon":  -87.9073, "name": "Chicago",        "station": "KORD", "unit": "F", "region": "us",   "timezone": "America/Chicago"},
+    "miami":          {"lat": 25.7959,  "lon":  -80.2870, "name": "Miami",          "station": "KMIA", "unit": "F", "region": "us",   "timezone": "America/New_York"},
+    "dallas":         {"lat": 32.8471,  "lon":  -96.8518, "name": "Dallas",         "station": "KDAL", "unit": "F", "region": "us",   "timezone": "America/Chicago"},
+    "seattle":        {"lat": 47.4502,  "lon": -122.3088, "name": "Seattle",        "station": "KSEA", "unit": "F", "region": "us",   "timezone": "America/Los_Angeles"},
+    "atlanta":        {"lat": 33.6407,  "lon":  -84.4277, "name": "Atlanta",        "station": "KATL", "unit": "F", "region": "us",   "timezone": "America/New_York"},
+    "denver":         {"lat": 39.8561,  "lon": -104.6737, "name": "Denver",         "station": "KDEN", "unit": "F", "region": "us",   "timezone": "America/Denver"},
+    "austin":         {"lat": 30.1945,  "lon":  -97.6699, "name": "Austin",         "station": "KAUS", "unit": "F", "region": "us",   "timezone": "America/Chicago"},
+    "san-francisco":  {"lat": 37.6213,  "lon": -122.3790, "name": "San Francisco",  "station": "KSFO", "unit": "F", "region": "us",   "timezone": "America/Los_Angeles"},
+    "houston":        {"lat": 29.9902,  "lon":  -95.3368, "name": "Houston",        "station": "KIAH", "unit": "F", "region": "us",   "timezone": "America/Chicago"},
+    "los-angeles":    {"lat": 33.9425,  "lon": -118.4081, "name": "Los Angeles",    "station": "KLAX", "unit": "F", "region": "us",   "timezone": "America/Los_Angeles"},
+
+    "london":         {"lat": 51.5048,  "lon":    0.0495, "name": "London",         "station": "EGLC", "unit": "C", "region": "eu",   "timezone": "Europe/London"},
+    "paris":          {"lat": 48.9962,  "lon":    2.5979, "name": "Paris",          "station": "LFPG", "unit": "C", "region": "eu",   "timezone": "Europe/Paris"},
+    "munich":         {"lat": 48.3537,  "lon":   11.7750, "name": "Munich",         "station": "EDDM", "unit": "C", "region": "eu",   "timezone": "Europe/Berlin"},
+    "ankara":         {"lat": 40.1281,  "lon":   32.9951, "name": "Ankara",         "station": "LTAC", "unit": "C", "region": "eu",   "timezone": "Europe/Istanbul"},
+    "warsaw":         {"lat": 52.1657,  "lon":   20.9671, "name": "Warsaw",         "station": "EPWA", "unit": "C", "region": "eu",   "timezone": "Europe/Warsaw"},
+    "madrid":         {"lat": 40.4936,  "lon":   -3.5668, "name": "Madrid",         "station": "LEMD", "unit": "C", "region": "eu",   "timezone": "Europe/Madrid"},
+    "milan":          {"lat": 45.6306,  "lon":    8.7231, "name": "Milan",          "station": "LIMC", "unit": "C", "region": "eu",   "timezone": "Europe/Rome"},
+
+    "seoul":          {"lat": 37.4691,  "lon":  126.4505, "name": "Seoul",          "station": "RKSI", "unit": "C", "region": "asia", "timezone": "Asia/Seoul"},
+    "tokyo":          {"lat": 35.7647,  "lon":  140.3864, "name": "Tokyo",          "station": "RJTT", "unit": "C", "region": "asia", "timezone": "Asia/Tokyo"},
+    "shanghai":       {"lat": 31.1443,  "lon":  121.8083, "name": "Shanghai",       "station": "ZSPD", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "singapore":      {"lat":  1.3502,  "lon":  103.9940, "name": "Singapore",      "station": "WSSS", "unit": "C", "region": "asia", "timezone": "Asia/Singapore"},
+    "lucknow":        {"lat": 26.7606,  "lon":   80.8893, "name": "Lucknow",        "station": "VILK", "unit": "C", "region": "asia", "timezone": "Asia/Kolkata"},
+    "tel-aviv":       {"lat": 32.0114,  "lon":   34.8867, "name": "Tel Aviv",       "station": "LLBG", "unit": "C", "region": "asia", "timezone": "Asia/Jerusalem"},
+    "shenzhen":       {"lat": 22.6393,  "lon":  113.8107, "name": "Shenzhen",       "station": "ZGSZ", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "hong-kong":      {"lat": 22.3080,  "lon":  113.9185, "name": "Hong Kong",      "station": "VHHH", "unit": "C", "region": "asia", "timezone": "Asia/Hong_Kong"},
+    "beijing":        {"lat": 40.0799,  "lon":  116.6031, "name": "Beijing",        "station": "ZBAA", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "chongqing":      {"lat": 29.7192,  "lon":  106.6417, "name": "Chongqing",      "station": "ZUCK", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "wuhan":          {"lat": 30.7838,  "lon":  114.2081, "name": "Wuhan",          "station": "ZHHH", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "chengdu":        {"lat": 30.5785,  "lon":  103.9471, "name": "Chengdu",        "station": "ZUUU", "unit": "C", "region": "asia", "timezone": "Asia/Shanghai"},
+    "taipei":         {"lat": 25.0694,  "lon":  121.5525, "name": "Taipei",         "station": "RCSS", "unit": "C", "region": "asia", "timezone": "Asia/Taipei"},
+
+    "toronto":        {"lat": 43.6772,  "lon":  -79.6306, "name": "Toronto",        "station": "CYYZ", "unit": "C", "region": "ca",   "timezone": "America/Toronto"},
+    "sao-paulo":      {"lat": -23.4356, "lon":  -46.4731, "name": "Sao Paulo",      "station": "SBGR", "unit": "C", "region": "sa",   "timezone": "America/Sao_Paulo"},
+    "buenos-aires":   {"lat": -34.8222, "lon":  -58.5358, "name": "Buenos Aires",   "station": "SAEZ", "unit": "C", "region": "sa",   "timezone": "America/Argentina/Buenos_Aires"},
+
+    "wellington":     {"lat": -41.3272, "lon":  174.8052, "name": "Wellington",     "station": "NZWN", "unit": "C", "region": "oc",   "timezone": "Pacific/Auckland"}
+}
